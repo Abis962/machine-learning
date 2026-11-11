@@ -33,4 +33,4 @@ Sentiment Analysis using Naive Bayes is a Natural Language Processing (NLP) proj
 
 ---
 
-*Developed by Raja M.*
+
